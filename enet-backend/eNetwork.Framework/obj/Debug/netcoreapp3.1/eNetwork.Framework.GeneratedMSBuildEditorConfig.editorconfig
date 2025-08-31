@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = eNetwork.Framework
+build_property.ProjectDir = C:\Users\pcnet\OneDrive\Desktop\Elision\enetwork-main\eNetwork-main\enet-backend\eNetwork.Framework\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

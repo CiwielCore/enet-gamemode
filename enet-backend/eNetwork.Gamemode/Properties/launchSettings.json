@@ -1,0 +1,18 @@
+{
+  "profiles": {
+    "eNetwork": {
+      "commandName": "Executable",
+      "executablePath": ".\\ragemp-server.exe",
+      "workingDirectory": "..\\..\\enet-gamemode",
+      "console": "externalTerminal",
+      "type": "coreclr",
+      "cwd": "..\\..\\..\\..\\..\\server/",
+      "preLaunchTask": "compile",
+      "name": "RAGE-MP Launch (build)",
+      "stopAtEntry": false,
+      "request": "launch",
+      "internalConsoleOptions": "neverOpen",
+      "program": "ragemp-server.exe"
+    }
+  }
+}

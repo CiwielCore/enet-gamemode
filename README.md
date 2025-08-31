@@ -1,1 +1,1 @@
-# enet-gamemode
+# enet-gamemode (RageMP szerver ami tele van hibákkal, ez a szerver backend csak arra jó, hogy újra épitsd)

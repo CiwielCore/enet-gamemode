@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <LangVersion>latest</LangVersion>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Company>Elision Network</Company>
+  </PropertyGroup>
+
+  <ItemGroup>
+	  <PackageReference Include="Colorful.Console" Version="1.2.15" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\eNetwork.Framework\eNetwork.Framework.csproj" />
+  </ItemGroup>
+
+</Project>
